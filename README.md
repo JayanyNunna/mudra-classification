@@ -104,8 +104,8 @@ mudra-classification/
 
 ## 📈 Results
 
-- **Test Accuracy**: [Add after training]
-- **Validation Accuracy**: [Add after training]
+- **Test Accuracy**: 
+- **Validation Accuracy**: 
 
 View confusion matrix: `results/confusion_matrix.png`
 
