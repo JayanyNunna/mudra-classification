@@ -1,0 +1,46 @@
+# Data
+data/raw/
+data/train/
+data/val/
+data/test/
+*.zip
+
+# Features
+features/*.npy
+
+# Models
+models/*.pkl
+models/*.h5
+models/*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.qodo/
+
+# OS
+.DS_Store
+Thumbs.db
+.wget-hsts
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Installation files
+*.sh
+*.tgz
+
+# Test outputs
+tests/output/
